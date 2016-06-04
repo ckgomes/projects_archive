@@ -1,0 +1,7 @@
+LIBRARY modc_game
+EXPORTS
+    
+G_initialize
+G_update
+G_render
+G_quit
